@@ -1,3 +1,10 @@
+/**
+* MTitik.java 28/02/23
+* Penulis : Andre Fitara Agun Ni'am Muta'ali
+* Deskripsi : kelas yang berisi program utama yang memanfaatkan kelas titik
+*
+*/
+
 class MTitik{
 	
 	public static void main(string[] args)
