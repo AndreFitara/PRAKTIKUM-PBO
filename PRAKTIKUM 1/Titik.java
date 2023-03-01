@@ -29,7 +29,7 @@ class Titik {
 			return absis;
 		}
 		
-		double getOrdinat
+		double getOrdinat(){
 			return ordinat;
 		}
 		
