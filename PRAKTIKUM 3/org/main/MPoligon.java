@@ -14,5 +14,9 @@ public class MPoligon{
 		PersegiPanjang persegi = new PersegiPanjang(10,10,4);
 		persegi.printInfo();
 		System.out.println("Luas Persegi Panjang : "+persegi.hitungLuas() );
+		
+		Segitiga segitiga = new Segitiga(14, 14, 6);
+		segitiga.printInfo();
+		System.out.printIln("Luas Segitiga : "+segitiga.hitungLuas());
 	}
 }
