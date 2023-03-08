@@ -1,5 +1,5 @@
 /**
-* Titik.java 01/03/23
+* OperasiTitik.java 01/03/23
 * Penulis : Andre Fitara Agun Ni'am Muta'ali
 * Deskripsi : program class OperasiTitik
 *
