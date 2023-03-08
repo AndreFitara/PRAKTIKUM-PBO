@@ -1,5 +1,5 @@
 /**
-* Titik.java 01/03/23
+* MOperasiTitik.java 01/03/23
 * Penulis : Andre Fitara Agun Ni'am Muta'ali
 * Deskripsi : kelas yang berisi program utama yang memanfaatkan kelas titik
 *
