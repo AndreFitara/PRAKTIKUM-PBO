@@ -1,3 +1,9 @@
+/**
+* Penulis : Andre Fitara Agun Ni'am Muta'ali
+* Lab : B
+* NIM :24060121140129
+*/
+
 class MTimSepakbola {
   public static void main(String[] args) {
     // TODO: Make an instance called 'liverpool' -> use constructor which you have made before
