@@ -1,3 +1,8 @@
+/**
+* Penulis : Andre Fitara Agun Ni'am Muta'ali
+* Lab : B
+* NIM :24060121140129
+*/
 
 class TimSepakbola {
 
